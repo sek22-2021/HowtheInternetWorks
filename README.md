@@ -1,2 +1,3 @@
 # HowtheInternetWorks
-http://localhost:63342/HowtheInternetWorks2/index.html
+
+https://sek22-2021.github.io/HowtheInternetWorks/
